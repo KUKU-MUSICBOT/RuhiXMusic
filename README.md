@@ -15,7 +15,7 @@
 
 
 ### 𝐎𝐰𝐧𝐞𝐫 (𝐑𝐞𝐛𝐮𝐢𝐥𝐝 𝐖𝐢𝐭𝐡 𝐍𝐞𝐰 𝐃𝐞𝐬𝐢𝐠𝐧) 𝐎𝐟 𝐓𝐡𝐢𝐬 𝐑𝐞𝐩𝐨𝐬𝐭𝐢𝐨𝐫𝐲
-[![ANSH #CUTE BACCHA](ANSH)](https://t.me/I_LOVE_YOU_MY_HEARTBEET)
+[![ANSH #CUTE BACCHA](https://t.me/I_LOVE_YOU_MY_HEARTBEET)
 
 
 #### 🥀 𝐃𝐞𝐚𝐫 𝐅𝐫𝐢𝐞𝐧𝐝𝐬 ✅ 𝐘𝐨𝐮 𝐂𝐚𝐧 𝐄𝐝𝐢𝐭 𝐚𝐧𝐝 𝐌𝐨𝐝𝐢𝐟𝐲 𝐓𝐡𝐢𝐬 𝐑𝐞𝐩𝐨 𝐀𝐬 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 🌿 𝐁𝐮𝐭 𝐏𝐥𝐞𝐚𝐬𝐞 𝐌𝐮𝐬𝐭 𝐆𝐢𝐯𝐞 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 ✨ ...
