@@ -2,14 +2,15 @@ API_ID=12380656
 API_HASH=d927c13beaaf5110f25c505b7c071273
 BOT_TOKEN=
 STRING_SESSION=
-MUSIC_BOT_NAME=˹sᴧɴᴋɪ ꭙ ᴍᴜsɪᴄ˼
+MUSIC_BOT_NAME=˹яυнι ꭙ ᴍᴜsɪᴄ˼
 MONGO_DB_URL=
 DURATION_LIMIT=120
 LOG_GROUP_ID=
 OWNER_ID=
-SUPPORT_CHANNEL=https://t.me/adityaserver
-SUPPORT_GROUP=https://t.me/adityadiscus
-UPSTREAM_REPO=https://github.com/XdityaHalder/SankiMusic
-UPSTREAM_BRANCH=aditya
+SUPPORT_CHANNEL=https://t.me/XD_CUTETY
+
+SUPPORT_GROUP=https://t.me/O_W_N_E_R_1
+UPSTREAM_REPO=https://github.com/KUKU-MUSICBOT/RuhiXMusic
+UPSTREAM_BRANCH=ansh
 AUTO_DOWNLOADS_CLEAR=True
 
